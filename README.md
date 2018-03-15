@@ -1,6 +1,6 @@
 > # Note: Development is switched to [prscX/react-native-app-tour](https://github.com/prscX/react-native-app-tour)\*\*
 
-> Migration is with respect to [Issue: 6](https://github.com/prscX/react-native-taptargetview/issues/6)
+> ## Migration is with respect to [Issue: 6](https://github.com/prscX/react-native-taptargetview/issues/6)
 
 <p align="center">
   <img src="https://github.com/KeepSafe/TapTargetView/blob/master/.github/video.gif" width="280" height="498" alt="Video 1"/>
